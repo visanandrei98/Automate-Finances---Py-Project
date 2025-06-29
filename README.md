@@ -18,7 +18,9 @@ A lightweight personal finance dashboard built using **Streamlit**, designed to 
 
 ## 📷 Screenshots
 
-> *(Include screenshots of the dashboard UI if you have them — drag images here in GitHub)*
+![image](https://github.com/user-attachments/assets/4b867beb-f561-4f0a-a096-e2a109971af2)
+![image](https://github.com/user-attachments/assets/4993ab64-085b-4a25-8945-713a8c1fdc35)
+
 
 ---
 
