@@ -31,10 +31,12 @@ A lightweight personal finance dashboard built using **Streamlit**, designed to 
 - [Plotly Express](https://plotly.com/python/plotly-express/) – Data visualization
 - JSON – Local category storage
 
----To activate .env
-.venv\Scripts\activate
+Make sure you have Python installed. Then run the following commands to see the demo:
 
---To run app
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install pandas streamlit plotly
 streamlit run main.py
 
 
